@@ -5,7 +5,7 @@ go 1.22.1
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
 	github.com/logrusorgru/aurora v2.0.3+incompatible
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 )
 
 require (
